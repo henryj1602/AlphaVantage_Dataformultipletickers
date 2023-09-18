@@ -2,7 +2,7 @@
 """
 Created on Tue Oct  5 20:23:32 2021
 
-@author: 12533
+@author: Henry
 """
 
 from alpha_vantage.timeseries import TimeSeries
